@@ -1,3 +1,11 @@
+/*colors:
+#91F1CC: teal
+#0F2D47: blue
+#7599A7: lightblue
+#2D4F6B: darkerblue
+#3A4B52: greyish
+*/
+
 body,
 html {
   width: 100%;
@@ -169,7 +177,7 @@ img::-moz-selection {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
-  background-image: url("../img/header.jpg");
+  background-image: url("../img/brushes.jpeg");
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
